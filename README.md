@@ -9,3 +9,6 @@ Performing analysis on Kickstarter data to uncover trends
 
 # Category Outcomes
 ![parents](Parent%20Category%20Outcomes.png)
+
+# Subcategory Statistics
+![subcategory](Subcategory%20Statistics.png)
