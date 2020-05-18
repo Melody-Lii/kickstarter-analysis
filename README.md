@@ -2,10 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends
 
 # Outcomes based on Goals
-![goals](Outcomes Based on Goals.png)	
+![goals](Outcomes%20Based%20on%20Goals.png)	
 
 # Outcomes based on Launch Date
-![date](Outcomes Based on Launch Date.png)
+![date](Outcomes%20Based%20on%20Launch%20Date.png)
 
 # Category Outcomes
-![parents](Parent Category Outcomes.png)
+![parents](Parent%20Category%20Outcomes.png)
